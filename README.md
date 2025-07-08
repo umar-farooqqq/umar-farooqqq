@@ -31,11 +31,11 @@ I've built projects like a Video Streaming App, MovieApp using real-world APIs l
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umar&show_icons=true&theme=tokyonight" alt="Umar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umar-farooqqq&show_icons=true&theme=tokyonight" alt="Umar's GitHub stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarFarooq&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-farooqqq&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -43,11 +43,11 @@ I've built projects like a Video Streaming App, MovieApp using real-world APIs l
 ## 📈 Contribution Graph
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarFarooq&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umar-farooqqq&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umar&theme=tokyo-night" alt="GitHub Activity Graph" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umar-farooqqq&theme=tokyo-night" alt="GitHub Activity Graph" 
     </p>
 
 
