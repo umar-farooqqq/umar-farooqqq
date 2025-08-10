@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Umar Farooq
 
-💻 Frontend Developer | 💻 Aspiring MERN Stack Developer 
+💻 Frontend Developer
 
 ---
 
