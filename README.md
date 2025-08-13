@@ -40,6 +40,7 @@ I've built projects like a Video Streaming App, MovieApp using real-world APIs l
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-farooqqq&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+
 ---
 
 ## 📈 Contribution Graph
